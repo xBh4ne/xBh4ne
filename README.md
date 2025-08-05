@@ -28,29 +28,15 @@
 
 <br>
 
-<h2 align="center">🧑🏼‍💻 Tech Stack</h2>
+<h2 align="center">🧑🏼‍💻 Tech Stack & Tools</h2>
 
 <br>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,arch,bash,bootstrap,codepen,discord,docker,figma,git,github,gradle,spring,java,latex,linux,md,obsidian,mysql,next,js,tailwind,react,vite,neovim,node.js,ts,notion,npm,py,stackoverflow,svelte,svg,threejs,vercel,vscode,webstorm" />
   </a>
 </p>
-
-<br>
-
-<h2 align="center">🛠️ Tools & IDEs</h2>
-
-<br>
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="VSCode" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" alt="Figma" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" alt="Linux" />
-</div>
 
 <br>
 
