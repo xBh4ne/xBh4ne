@@ -33,7 +33,7 @@
 <br>
 
 <div align="center">
-   <span>[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)</div>span>
+   <span>[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)<span>
 </div>
 
 <br>
