@@ -5,18 +5,21 @@
 <br>
 
 <h2 align="center">🚀 About Me</h2>
+
 <br>
+
 <p align="center">
 🎓 CS for Digital Communication student @ UNICAM <br>
 🎨 Obsessed with design, detail and front-end development <br>
 🧠 Always learning new frameworks and design patterns <br>
 ☕ Remote worker powered by Wi-Fi and caffeine
 </p>
+
 <br>
 
-
-
 <h2 align="center">✨ Highlights</h2>
+
+<br>
 
 - 🖥️ Clean code enthusiast with love for minimal UI  
 - 🔥 Focused on responsive, accessible web experiences  
@@ -27,6 +30,8 @@
 
 <h2 align="center">🧑🏼‍💻 Tech Stack</h2>
 
+<br>
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
@@ -36,9 +41,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="40" alt="Behance" />
 </div>
 
-
+<br>
 
 <h2 align="center">🛠️ Tools & IDEs</h2>
+
+<br>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="VSCode" />
@@ -48,26 +55,32 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" alt="Linux" />
 </div>
 
-
+<br>
 
 <h2 align="center">📊 GitHub Stats</h2>
+
+<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xBh4ne&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" />
   <img src="https://streak-stats.demolab.com?user=xBh4ne&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" />
 </div>
 
-
+<br>
 
 <h2 align="center">🐍 Contribution Snake</h2>
+
+<br>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
 </div>
 
-
+<br>
 
 <h2 align="center">📫 Contact Me</h2>
+
+<br>
 
 <p align="center">
   <a href="https://linkedin.com/in/jasonbini">
