@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Jason+%F0%9F%91%8B;Web+Developer+%26+UI%2FUX+Designer;I+love+creating+modern+digital+experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Jason+%F0%9F%91%8B;Front-End+Developer;UI%2FUX+Guy;Frameworks+Enthusiast" alt="Typing SVG" />
 </p>
+
 
 ###
 
