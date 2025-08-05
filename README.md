@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Jason+%F0%9F%91%8B;Front-End+Developer;UI%2FUX+Guy;Frameworks+Enthusiast" alt="Typing SVG" />
 </p>
 
----
+
 
 <h2 align="center">🚀 About Me</h2>
 
@@ -13,7 +13,7 @@
 ☕ Remote worker powered by Wi-Fi and caffeine
 </p>
 
----
+
 
 <h2 align="center">✨ Highlights</h2>
 
@@ -22,7 +22,7 @@
 - 📱 Exploring mobile app development  
 - 🌍 Open to collaboration, especially remote-first projects  
 
----
+
 
 <h2 align="center">🧑🏼‍💻 Tech Stack</h2>
 
@@ -35,7 +35,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="40" alt="Behance" />
 </div>
 
----
+
 
 <h2 align="center">🛠️ Tools & IDEs</h2>
 
@@ -47,7 +47,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" alt="Linux" />
 </div>
 
----
+
 
 <h2 align="center">📊 GitHub Stats</h2>
 
@@ -56,7 +56,7 @@
   <img src="https://streak-stats.demolab.com?user=xBh4ne&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" />
 </div>
 
----
+
 
 <h2 align="center">🐍 Contribution Snake</h2>
 
@@ -64,7 +64,7 @@
   <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
 </div>
 
----
+
 
 <h2 align="center">📫 Contact Me</h2>
 
@@ -77,6 +77,6 @@
   </a>
 </p>
 
----
+
 
 > *"Code is design. Design is communication. And communication is everything."*
