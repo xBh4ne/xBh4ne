@@ -34,7 +34,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,arch,bash,bootstrap,codepen,discord,docker,figma,git,github,gradle,spring,java,latex,linux,md,obsidian,mysql,next,js,tailwind,react,vite,neovim,node,ts,notion,npm,py,stackoverflow,svelte,svg,threejs,vercel,vscode,webstorm" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,arch,bash,bootstrap,codepen,discord,docker,figma,git,github,gradle,spring,java,latex,linux,md,obsidian,mysql,next,js,tailwind,react,vite,neovim,nodejs,ts,notion,npm,py,stackoverflow,svelte,svg,threejs,vercel,vscode,webstorm" />
   </a>
 </p>
 
