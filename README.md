@@ -12,17 +12,13 @@
 💼 *Amo trasformare idee in esperienze web funzionali e stilose*  
 🏡 *Lavoro da remoto, ovunque ci sia Wi-Fi e caffè ☕*
 
----
-
 ## 💻 Tech stack
 
 - 🌐 HTML | CSS | JavaScript
-- ⚛️ React | Vue | TailwindCSS
-- 🎨 Figma | Photoshop
+- ⚛️ React | Svelte | TailwindCSS
+- 🎨 Figma
 - 🛠️ Git | GitHub | REST APIs
 - 🐧 Linux (100% compatibile 😉)
-
----
 
 ## 📊 GitHub Stats
 
@@ -31,14 +27,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jasonbini&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
----
-
 ## 🌍 Dove trovarmi
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuo-username)  
-[![Sito Portfolio](https://img.shields.io/badge/Sito-Web-%231DA1F2?style=for-the-badge&logo=Firefox&logoColor=white)](https://ilmiosito.com)
-
----
 
 ## 🧠 Obiettivi
 
@@ -46,8 +36,6 @@
 - 🧑‍🎨 Unire estetica e funzionalità nel web  
 - 📱 Imparare a sviluppare anche app mobile  
 - 🌟 Diventare il migliore nel settore (o almeno provarci!)
-
----
 
 > ✨ *"Non basta sapere programmare: bisogna saper comunicare con il codice."*
 
