@@ -21,10 +21,12 @@
 
 <br>
 
-- 🖥️ Clean code enthusiast with love for minimal UI  
-- 🔥 Focused on responsive, accessible web experiences  
-- 📱 Exploring mobile app development  
-- 🌍 Open to collaboration, especially remote-first projects  
+<p align="center">
+- 🖥️ Clean code enthusiast with love for minimal UI  <br>
+- 🔥 Focused on responsive, accessible web experiences  <br>
+- 📱 Exploring mobile app development  <br>
+- 🌍 Open to collaboration, especially remote-first projects  <br>
+</p>
 
 <br>
 
