@@ -2,8 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Jason+%F0%9F%91%8B;Front-End+Developer;UI%2FUX+Guy;Frameworks+Enthusiast" alt="Typing SVG" />
 </p>
 
-<br>
-
 <h2 align="center">🚀 About Me</h2>
 
 <br>
@@ -22,10 +20,10 @@
 <br>
 
 <p align="center">
-- 🖥️ Clean code enthusiast with love for minimal UI  <br>
-- 🔥 Focused on responsive, accessible web experiences  <br>
-- 📱 Exploring mobile app development  <br>
-- 🌍 Open to collaboration, especially remote-first projects  <br>
+🖥️ Clean code enthusiast with love for minimal UI  <br>
+🔥 Focused on responsive, accessible web experiences  <br>
+📱 Exploring mobile app development  <br>
+🌍 Open to collaboration, especially remote-first projects  <br>
 </p>
 
 <br>
@@ -93,6 +91,6 @@
   </a>
 </p>
 
-
+<br>
 
 > *"Code is design. Design is communication. And communication is everything."*
