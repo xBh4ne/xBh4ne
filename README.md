@@ -2,16 +2,17 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Jason+%F0%9F%91%8B;Front-End+Developer;UI%2FUX+Guy;Frameworks+Enthusiast" alt="Typing SVG" />
 </p>
 
-
+<br>
 
 <h2 align="center">🚀 About Me</h2>
-
+<br>
 <p align="center">
 🎓 CS for Digital Communication student @ UNICAM <br>
 🎨 Obsessed with design, detail and front-end development <br>
 🧠 Always learning new frameworks and design patterns <br>
 ☕ Remote worker powered by Wi-Fi and caffeine
 </p>
+<br>
 
 
 
@@ -22,7 +23,7 @@
 - 📱 Exploring mobile app development  
 - 🌍 Open to collaboration, especially remote-first projects  
 
-
+<br>
 
 <h2 align="center">🧑🏼‍💻 Tech Stack</h2>
 
