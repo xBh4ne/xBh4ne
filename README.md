@@ -1,16 +1,53 @@
-## Hi there 👋
+<!-- Banner animato (opzionale) -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hey%2C+sono+Jason+%F0%9F%91%8B;Web+Developer+%26+UI%2FUX+Designer;Amo+creare+esperienze+digitali+moderne" alt="Typing SVG" />
+</p>
 
-<!--
-**xBh4ne/xBh4ne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 Chi sono
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 *Studente di Informatica per la Comunicazione Digitale @ UNICAM*  
+🎨 *Appassionato di Web Design, UI/UX e sviluppo front-end*  
+💼 *Amo trasformare idee in esperienze web funzionali e stilose*  
+🏡 *Lavoro da remoto, ovunque ci sia Wi-Fi e caffè ☕*
+
+---
+
+## 💻 Tech stack
+
+- 🌐 HTML | CSS | JavaScript
+- ⚛️ React | Vue | TailwindCSS
+- 🎨 Figma | Photoshop
+- 🛠️ Git | GitHub | REST APIs
+- 🐧 Linux (100% compatibile 😉)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jasonbini&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jasonbini&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+## 🌍 Dove trovarmi
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuo-username)  
+[![Sito Portfolio](https://img.shields.io/badge/Sito-Web-%231DA1F2?style=for-the-badge&logo=Firefox&logoColor=white)](https://ilmiosito.com)
+
+---
+
+## 🧠 Obiettivi
+
+- 🚀 Lavorare per aziende internazionali in full remote  
+- 🧑‍🎨 Unire estetica e funzionalità nel web  
+- 📱 Imparare a sviluppare anche app mobile  
+- 🌟 Diventare il migliore nel settore (o almeno provarci!)
+
+---
+
+> ✨ *"Non basta sapere programmare: bisogna saper comunicare con il codice."*
+
