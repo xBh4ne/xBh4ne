@@ -4,21 +4,14 @@
 
 ###
 
-## 🚀 About Me
+<h2 align="center">🚀 About Me</h2>
 
-🎓 *Computer Science for Digital Communication student @ UNICAM*  
-🎨 *Passionate about Web Design, UI/UX and Front-End Development*  
-💼 *I love turning ideas into beautiful and functional web experiences*  
+<p align="center">
+🎓 *Computer Science for Digital Communication student @ UNICAM*  <br>
+🎨 *Passionate about Web Design, UI/UX and Front-End Development*  <br>
+💼 *I love turning ideas into beautiful and functional web experiences*  <br>
 🏡 *Working remotely wherever there's Wi-Fi and good coffee ☕*
-
-
-###
-
-<h2 align="center">📝 About me</h2>
-
-###
-
-<p align="center">✨ Creating bugs since: I learned my first “Hello World”<br>☕ Fuel: Caffein is my life & stack overflow<br>🎯 Goal: Write code that works (impossible)<br>🎲 Fun fact: Sometimes I talk to my code as if it can hear me<br>🧠 Random Skill: Fluent in keyboard shortcuts, and reach at least 70 wpm 🥹</p>
+</p>
 
 ###
 
