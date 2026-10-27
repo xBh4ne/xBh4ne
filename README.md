@@ -224,8 +224,5 @@ engineering, feel free to get in touch.
 </p>
 
 <div align="center">
-  <br/>
-  <i>"Good software solves problems. Great software makes the solution feel natural."</i>
-  <br/><br/>
-  <sub>Designed with curiosity. Built with purpose. Improved with every commit.</sub>
+  <sub>Software Developer · Web Development · Continuous Learning</sub>
 </div>
