@@ -1,6 +1,6 @@
-<div align="center">
+ <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Jason+Bini+%F0%9F%91%8B;Software+Developer;Full-Stack+Web+Developer;Building+Ideas+Into+Software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Jason+Bini+%F0%9F%91%8B;Software+Developer;Full+Stack+Web+Developer;Building+Ideas+Into+Software" alt="Typing SVG" />
 
   <br/>
 
@@ -17,7 +17,7 @@
   </p>
 
   <p>
-    <b>Software Development · Web Engineering · UI/UX</b>
+    <b>Software Development | Web Engineering | UI/UX</b>
   </p>
 
 </div>
@@ -28,16 +28,21 @@
 
 I'm **Jason Bini**, a Software Developer based in Italy, with a Bachelor's degree in **Computer Science for Digital Communication** from the **University of Camerino (UNICAM)**.
 
-My background combines software engineering, web development, and digital communication. I enjoy turning ideas into functional, well-structured software, whether that means building a REST API, developing a full-stack application, or crafting a polished website.
+My background combines software engineering, web development, and digital communication. I enjoy turning ideas into functional, well structured software, whether that means building a REST API, developing a full stack application, or crafting a polished website.
 
-I'm particularly interested in the intersection of **clean code, thoughtful architecture, and user-centered design**. I believe great software should not only work well under the hood, but also provide an intuitive and meaningful experience to the people who use it.
+I'm particularly interested in the intersection of **clean code, thoughtful architecture, and user centered design**. I believe great software should not only work well under the hood, but also provide an intuitive and meaningful experience to the people who use it.
 
-- 🎓 **Education:** B.Sc. in Computer Science for Digital Communication — UNICAM
-- 💻 **Focus:** Software Development, Full-Stack Web Development & API Engineering
-- 🎨 **Interests:** UI/UX, design systems, accessibility & web performance
-- 🛠️ **Approach:** Maintainable code, pragmatic solutions & continuous learning
-- 🌍 **Based in:** Italy
-- 🚀 **Portfolio:** [jasonbini.dev](https://www.jasonbini.dev)
+🎓 **Education:** B.Sc. in Computer Science for Digital Communication, UNICAM
+
+💻 **Focus:** Software Development, Full Stack Web Development and API Engineering
+
+🎨 **Interests:** UI/UX, design systems, accessibility and web performance
+
+🛠️ **Approach:** Maintainable code, pragmatic solutions and continuous learning
+
+🌍 **Based in:** Italy
+
+🚀 **Portfolio:** [jasonbini.dev](https://www.jasonbini.dev)
 
 ## 🧭 What I Do
 
@@ -51,23 +56,23 @@ I'm particularly interested in the intersection of **clean code, thoughtful arch
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🔌 Backend & API Development</h3>
+      <h3>🔌 Backend and API Development</h3>
       <p>
         Building REST APIs, implementing authentication and authorization,
-        integrating databases, and designing server-side application logic.
+        integrating databases, and designing server side application logic.
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌐 Full-Stack Web Development</h3>
+      <h3>🌐 Full Stack Web Development</h3>
       <p>
         Creating responsive websites and web applications, connecting
         interactive interfaces with backend services and persistent data.
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🎨 UI/UX & Interface Design</h3>
+      <h3>🎨 UI/UX and Interface Design</h3>
       <p>
         Designing clean, accessible, and responsive digital experiences
         where visual consistency and usability matter as much as functionality.
@@ -80,62 +85,65 @@ I'm particularly interested in the intersection of **clean code, thoughtful arch
 
 ### 🔹 [HackHub](https://github.com/xBh4ne/hackhub)
 
-**A REST API for end-to-end hackathon management.**
+**A REST API for end to end hackathon management.**
 
-A backend application designed to manage hackathons, teams, invitations,
-submissions, evaluations, and user roles.
+A backend application designed to manage hackathons, teams, invitations, submissions, evaluations, and user roles.
 
 **Key features**
 
-- JWT-based authentication and role-based authorization
-- REST endpoints for hackathon and team management
-- Domain-oriented architecture and separation of responsibilities
-- Centralized validation and exception handling
+🔐 JWT based authentication and role based authorization
 
-**Tech stack:** Java 21 · Spring Boot · Spring Security · Spring Data JPA · Hibernate · H2 · Maven
+🔌 REST endpoints for hackathon and team management
+
+🏗️ Domain oriented architecture and separation of responsibilities
+
+🛡️ Centralized validation and exception handling
+
+**Tech stack:** Java 21 | Spring Boot | Spring Security | Spring Data JPA | Hibernate | H2 | Maven
 
 ### 🔹 [studentSpace](https://github.com/xBh4ne/studentSpace)
 
 **A university management platform for students.**
 
-A web application designed to help university students organize academic
-information, including courses, exams, grades, and tuition fees.
+A web application designed to help university students organize academic information, including courses, exams, grades, and tuition fees.
 
 **Focus areas**
 
-- Server-side application development
-- Relational database integration
-- Data modeling and application structure
-- Academic information management
+🖥️ Server side application development
 
-**Tech stack:** PHP · Symfony 7 · PostgreSQL
+🗄️ Relational database integration
+
+🏗️ Data modeling and application structure
+
+🎓 Academic information management
+
+**Tech stack:** PHP | Symfony 7 | PostgreSQL
 
 ### 🔹 [easyWeather](https://github.com/xBh4ne/easyWeather)
 
 **A weather application built with ASP.NET Core MVC.**
 
-A web application that combines weather information with an interactive
-interface and dynamic visual elements.
+A web application that combines weather information with an interactive interface and dynamic visual elements.
 
 **Highlights**
 
-- City search with autocomplete
-- Hourly weather forecasts
-- Integration with the OpenWeather API
-- Dynamic video backgrounds
+🔎 City search with autocomplete
 
-**Tech stack:** C# · ASP.NET Core MVC · OpenWeather API
+🌤️ Hourly weather forecasts
+
+🌐 Integration with the OpenWeather API
+
+🎬 Dynamic video backgrounds
+
+**Tech stack:** C# | ASP.NET Core MVC | OpenWeather API
 
 ### 🌐 [Personal Portfolio](https://www.jasonbini.dev)
 
 **Selected web development projects and digital experiences.**
 
-My portfolio showcases websites and digital projects developed with an
-emphasis on visual identity, responsive layouts, usability, and clean
-implementation.
+My portfolio showcases websites and digital projects developed with an emphasis on visual identity, responsive layouts, usability, and clean implementation.
 
-It includes projects for different contexts, from event websites to
-professional websites for creative businesses.
+It includes projects for different contexts, from event websites to professional websites for creative businesses.
 
 **Explore:** [www.jasonbini.dev](https://www.jasonbini.dev)
 
@@ -145,10 +153,9 @@ professional websites for creative businesses.
   </a>
 </p>
 
-## 🧰 Tech Stack & Tools
+## 🧰 Tech Stack and Tools
 
-The technologies below reflect my development interests and the tools
-I use across different projects.
+The technologies below reflect my development interests and the tools I use across different projects.
 
 ### Languages
 
@@ -156,13 +163,13 @@ I use across different projects.
   <img src="https://skillicons.dev/icons?i=java,php,cs,js,ts,html,css,py,bash" alt="Programming languages"/>
 </p>
 
-### Backend & Databases
+### Backend and Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=spring,symfony,dotnet,nodejs,postgres,mysql" alt="Backend technologies and databases"/>
 </p>
 
-### Frontend & UI
+### Frontend and UI
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite,figma" alt="Frontend and design tools"/>
@@ -204,12 +211,9 @@ I use across different projects.
 
 ## 🤝 Let's Connect
 
-I'm interested in meaningful projects, collaboration, and opportunities
-to grow as a software developer.
+I'm interested in meaningful projects, collaboration, and opportunities to grow as a software developer.
 
-Whether you're looking for someone to build a website, develop a web
-application, work on a backend service, or exchange ideas about software
-engineering, feel free to get in touch.
+Whether you're looking for someone to build a website, develop a web application, work on a backend service, or exchange ideas about software engineering, feel free to get in touch.
 
 <p align="center">
   <a href="https://www.jasonbini.dev">
@@ -224,5 +228,5 @@ engineering, feel free to get in touch.
 </p>
 
 <div align="center">
-  <sub>Software Developer · Web Development · Continuous Learning</sub>
+  <sub>Software Developer | Web Development | Continuous Learning</sub>
 </div>
