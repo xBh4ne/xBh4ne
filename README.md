@@ -1,234 +1,170 @@
-<div align="center">
-
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Jason+Bini+%F0%9F%91%8B;Software+Developer;Full-Stack+Web+Developer;Building+Ideas+Into+Software" alt="Typing SVG" />
-
-  <br/>
-
-  <p>
-    <a href="https://www.jasonbini.dev">
-      <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-    </a>
-    <a href="https://github.com/xBh4ne">
-      <img src="https://img.shields.io/badge/GitHub-xBh4ne-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
-    <a href="https://linkedin.com/in/jasonbini">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-  </p>
-
-  <p>
-    <b>Software Development · Web Engineering · UI/UX</b>
-  </p>
-
-</div>
-
----
-
-## 👋 About Me
-
-I'm **Jason Bini**, a Software Developer based in Italy, with a Bachelor's degree in **Computer Science for Digital Communication** from the **University of Camerino (UNICAM)**.
-
-My background combines software engineering, web development, and digital communication. I enjoy turning ideas into functional, well-structured software, whether that means building a REST API, developing a full-stack application, or crafting a polished website.
-
-I'm particularly interested in the intersection of **clean code, thoughtful architecture, and user-centered design**. I believe great software should not only work well under the hood, but also provide an intuitive and meaningful experience to the people who use it.
-
-- 🎓 **Education:** B.Sc. in Computer Science for Digital Communication — UNICAM
-- 💻 **Focus:** Software Development, Full-Stack Web Development & API Engineering
-- 🎨 **Interests:** UI/UX, design systems, accessibility & web performance
-- 🛠️ **Approach:** Maintainable code, pragmatic solutions & continuous learning
-- 🌍 **Based in:** Italy
-- 🚀 **Portfolio:** [jasonbini.dev](https://www.jasonbini.dev)
-
-## 🧭 What I Do
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚙️ Software Engineering</h3>
-      <p>
-        Developing structured applications with a focus on maintainability,
-        separation of concerns, business logic, and reliable software design.
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔌 Backend & API Development</h3>
-      <p>
-        Building REST APIs, implementing authentication and authorization,
-        integrating databases, and designing server-side application logic.
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌐 Full-Stack Web Development</h3>
-      <p>
-        Creating responsive websites and web applications, connecting
-        interactive interfaces with backend services and persistent data.
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎨 UI/UX & Interface Design</h3>
-      <p>
-        Designing clean, accessible, and responsive digital experiences
-        where visual consistency and usability matter as much as functionality.
-      </p>
-    </td>
-  </tr>
-</table>
-
-## 🚀 Featured Projects
-
-### 🔹 [HackHub](https://github.com/xBh4ne/hackhub)
-
-**A REST API for end-to-end hackathon management.**
-
-A backend application designed to manage hackathons, teams, invitations,
-submissions, evaluations, and user roles.
-
-**Key features**
-
-- JWT-based authentication and role-based authorization
-- REST endpoints for hackathon and team management
-- Domain-oriented architecture and separation of responsibilities
-- Centralized validation and exception handling
-
-**Tech stack:** Java 21 · Spring Boot · Spring Security · Spring Data JPA · Hibernate · H2 · Maven
-
-### 🔹 [studentSpace](https://github.com/xBh4ne/studentSpace)
-
-**A university management platform for students.**
-
-A web application designed to help university students organize academic
-information, including courses, exams, grades, and tuition fees.
-
-**Focus areas**
-
-- Server-side application development
-- Relational database integration
-- Data modeling and application structure
-- Academic information management
-
-**Tech stack:** PHP · Symfony 7 · PostgreSQL
-
-### 🔹 [easyWeather](https://github.com/xBh4ne/easyWeather)
-
-**A weather application built with ASP.NET Core MVC.**
-
-A web application that combines weather information with an interactive
-interface and dynamic visual elements.
-
-**Highlights**
-
-- City search with autocomplete
-- Hourly weather forecasts
-- Integration with the OpenWeather API
-- Dynamic video backgrounds
-
-**Tech stack:** C# · ASP.NET Core MVC · OpenWeather API
-
-### 🌐 [Personal Portfolio](https://www.jasonbini.dev)
-
-**Selected web development projects and digital experiences.**
-
-My portfolio showcases websites and digital projects developed with an
-emphasis on visual identity, responsive layouts, usability, and clean
-implementation.
-
-It includes projects for different contexts, from event websites to
-professional websites for creative businesses.
-
-**Explore:** [www.jasonbini.dev](https://www.jasonbini.dev)
-
-<p align="center">
-  <a href="https://github.com/xBh4ne?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore-All%20Repositories-238636?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories"/>
-  </a>
-</p>
-
-## 🧰 Tech Stack & Tools
-
-The technologies below reflect my development interests and the tools
-I use across different projects.
-
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,php,cs,js,ts,html,css,py,bash" alt="Programming languages"/>
-</p>
-
-### Backend & Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,symfony,dotnet,nodejs,postgres,mysql" alt="Backend technologies and databases"/>
-</p>
-
-### Frontend & UI
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite,figma" alt="Frontend and design tools"/>
-</p>
-
-### Development Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash,postman,vscode,idea" alt="Development tools"/>
-</p>
-
-## 📊 GitHub Activity
-
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=xBh4ne&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
-    height="165"
-    alt="GitHub statistics"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=xBh4ne&layout=compact&theme=github_dark&hide_border=true&langs_count=6"
-    height="165"
-    alt="Most used programming languages"
-  />
-</div>
-
-<div align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=xBh4ne&theme=github-dark-blue&hide_border=true"
-    alt="GitHub contribution streak"
-  />
-</div>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img
-    src="https://raw.githubusercontent.com/xBh4ne/xBh4ne/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub contribution snake animation"
-  />
-</div>
-
-## 🤝 Let's Connect
-
-I'm interested in meaningful projects, collaboration, and opportunities
-to grow as a software developer.
-
-Whether you're looking for someone to build a website, develop a web
-application, work on a backend service, or exchange ideas about software
-engineering, feel free to get in touch.
+# Jason Bini — Personal Portfolio
 
 <p align="center">
   <a href="https://www.jasonbini.dev">
-    <img src="https://img.shields.io/badge/Website-jasonbini.dev-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal website"/>
+    <img src="https://img.shields.io/badge/Live%20Portfolio-jasonbini.dev-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio" />
+  </a>
+  <a href="https://github.com/xBh4ne">
+    <img src="https://img.shields.io/badge/GitHub-xBh4ne-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
   </a>
   <a href="https://linkedin.com/in/jasonbini">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:me.jasonbini@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
-<div align="center">
-  <br/>
-  <i>"Good software solves problems. Great software makes the solution feel natural."</i>
-  <br/><br/>
-  <sub>Designed with curiosity. Built with purpose. Improved with every commit.</sub>
-</div>
+A modern, interactive personal portfolio built to showcase my work, technical skills, and approach to software development.
+
+The project combines modern web technologies, thoughtful interface design, and motion to create a professional digital presence that reflects my interests in software engineering, full-stack web development, and UI/UX.
+
+**Live website:** [www.jasonbini.dev](https://www.jasonbini.dev)
+
+---
+
+## Overview
+
+I'm Jason Bini, a Software Developer with a Bachelor's degree in **Computer Science for Digital Communication from the University of Camerino (UNICAM), Italy**.
+
+This portfolio is my personal space to present selected projects, communicate my technical background, and showcase the intersection of engineering and design that drives my work.
+
+Rather than serving as a static résumé, the website is also a development project in its own right, built with a modern React-based stack and a focus on maintainable code, responsive interfaces, and polished interactions.
+
+## Key Highlights
+
+- **Personal branding** — a dedicated digital identity and professional introduction.
+- **Project showcase** — a central place to explore selected development work.
+- **Modern frontend architecture** — built with Next.js, React, and TypeScript.
+- **Motion and interaction** — GSAP-powered animation capabilities.
+- **Responsive design** — developed with modern CSS tooling for adaptable layouts.
+- **Reusable UI elements** — Lucide React icons and a component-oriented development approach.
+- **Internationalization infrastructure** — a dedicated localization directory for language-related resources.
+
+## Tech Stack
+
+| Technology                                    | Purpose                                      |
+| --------------------------------------------- | -------------------------------------------- |
+| [Next.js](https://nextjs.org/)                | React framework and application architecture |
+| [React](https://react.dev/)                   | Component-based user interfaces              |
+| [TypeScript](https://www.typescriptlang.org/) | Static typing and improved maintainability   |
+| [Tailwind CSS](https://tailwindcss.com/)      | Utility-first styling                        |
+| [GSAP](https://gsap.com/)                     | Animation and motion                         |
+| [Lucide React](https://lucide.dev/)           | Interface icons                              |
+| [Biome](https://biomejs.dev/)                 | Code formatting and linting                  |
+| [pnpm](https://pnpm.io/)                      | Package management                           |
+
+## Getting Started
+
+Follow these steps to run the project locally.
+
+### Prerequisites
+
+Make sure you have installed:
+
+- [Node.js](https://nodejs.org/)
+- [pnpm](https://pnpm.io/installation)
+- [Git](https://git-scm.com/)
+
+### Installation
+
+**1. Clone the repository**
+
+```bash
+git clone https://github.com/xBh4ne/portfolio.git
+cd portfolio
+```
+
+**2. Install dependencies**
+
+```bash
+pnpm install
+```
+
+**3. Start the development server**
+
+```bash
+pnpm dev
+```
+
+**4. Open the application**
+
+Visit [http://localhost:3000](http://localhost:3000) in your browser.
+
+The development server supports hot reloading, allowing changes to appear as you edit the source files.
+
+## Available Scripts
+
+Run the following commands from the project root.
+
+| Command       | Description                     |
+| ------------- | ------------------------------- |
+| `pnpm dev`    | Starts the development server   |
+| `pnpm build`  | Creates a production build      |
+| `pnpm start`  | Starts the production server    |
+| `pnpm lint`   | Checks the codebase with Biome  |
+| `pnpm format` | Formats the codebase with Biome |
+
+To verify the production build, run:
+
+```bash
+pnpm build
+pnpm start
+```
+
+## Project Structure
+
+The repository is organized around the Next.js application, shared context, localization resources, and public assets.
+
+```text
+portfolio/
+├── app/          # Application routes and UI
+├── context/      # Shared application context
+├── locales/      # Localization resources
+├── public/       # Static assets
+├── next.config.ts
+├── package.json
+├── pnpm-lock.yaml
+├── biome.json
+└── README.md
+```
+
+## Development Philosophy
+
+This project reflects the principles I value when building digital products:
+
+- **Clarity over unnecessary complexity** — keep implementations understandable and maintainable.
+- **Design with purpose** — use visual hierarchy and motion to support the user experience.
+- **Engineering discipline** — leverage TypeScript, consistent formatting, and modern development tools.
+- **Continuous improvement** — refine the implementation as the project evolves.
+
+## Deployment
+
+The project is configured as a Next.js application and can be deployed to platforms that support Next.js, including [Vercel](https://vercel.com/).
+
+For a production deployment:
+
+1. Import the repository into your deployment platform.
+2. Configure the project build settings and any required environment variables.
+3. Deploy the application.
+4. Configure the custom domain and verify the production build.
+
+The live portfolio is available at [www.jasonbini.dev](https://www.jasonbini.dev).
+
+## About Me
+
+I graduated with a Bachelor's degree in **Computer Science for Digital Communication at the University of Camerino (UNICAM)**.
+
+My interests span software development, backend engineering, full-stack web applications, and frontend architecture. I also build websites with a strong focus on visual design, usability, and responsive implementation.
+
+I'm always looking to expand my technical knowledge, explore new approaches to software engineering, and work on projects where thoughtful design meets solid implementation.
+
+## Connect
+
+- **Portfolio:** [jasonbini.dev](https://www.jasonbini.dev)
+- **GitHub:** [@xBh4ne](https://github.com/xBh4ne)
+- **LinkedIn:** [jasonbini](https://linkedin.com/in/jasonbini)
+- **Email:** [me.jasonbini@gmail.com](mailto:me.jasonbini@gmail.com)
+
+---
+
+<p align="center">
+  <i>Designed with intention. Built with purpose.</i>
+</p>
